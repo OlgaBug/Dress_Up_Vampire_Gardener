@@ -1,1 +1,1 @@
-max new
+max new and min new
